@@ -1,0 +1,7 @@
+{"orderId":2,"amount":1.23, "currency":"USD","comment":"оплата заказа1"}
+{"orderId":3,"amount":1.245,"currency":"EUR","comment":"оплата заказа2"}
+{"orderId":4,"amount":1.246,"currency":"USD","comment":"оплата заказа3"}
+{"orderId":5,"amount":1.247,"currency":"EUR","comment":"оплата заказа4"}
+{"orderId":6,"amount":1.248,"currency":"USD","comment":"оплата заказа5"}
+{"orderId":7,"amount":1.249,"currency":"EUR","comment":"оплата заказа6"}
+{"orderId":"7d","amount":"1.249asd","currency":"EUR2","comment":"оплата заказа6"}
